@@ -1,0 +1,19 @@
+[
+        {
+                "dersAdi": "Fizik 2",
+                "harfNotu": "CC"
+        },
+        {
+                "dersAdi": "Matematik",
+                "harfNotu": "BB"
+        },
+        {
+                "dersAdi": "Proglamlama",
+                "harfNotu": "AA"
+        },
+        {
+                "dersAdi": "Web Tasarım",
+                "harfNotu": "DD"
+        }
+]
+
